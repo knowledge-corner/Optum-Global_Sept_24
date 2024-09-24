@@ -1,3 +1,9 @@
 Drive Link - https://github.com/knowledge-corner/Optum-Global_Sept_24.git
 
 Python Revision videos - https://www.youtube.com/playlist?list=PL74ja_8REXcYafeTYO4ivQDzYEDYQkTQu
+
+seaborn documentation - https://seaborn.pydata.org/generated/seaborn.countplot.html
+
+Matplotlib documentation - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
+
+Matplotlib colors - https://matplotlib.org/stable/gallery/color/named_colors.html 
